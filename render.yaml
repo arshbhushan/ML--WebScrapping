@@ -1,6 +1,6 @@
 # render.yaml
 
 services:
-  - name: ImageTranslation
+  - name: webScrapping
     env: python
     start_command: poetry run python App.py
